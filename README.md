@@ -51,4 +51,4 @@ Pinned projects on my profile reflect the work I’m most proud of, including:
 
 ## 📫 Contact
 - 🔗 LinkedIn: https://www.linkedin.com/in/oleksandr-honcharuk-2b17b739b/  
-- 📧 Email: oleksandrg
+- 📧 Email: oleksandrg881@gmail.com
