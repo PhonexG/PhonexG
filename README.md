@@ -1,54 +1,25 @@
-# 👋 Hi, I'm Oleksandr Honcharuk
+# 👋 Oleksandr Honcharuk
 
-**Junior Software Engineer | C++ | Algorithms | CS Foundations**
+💻 **Junior Software Engineer | C++ | Algorithms**
 
----
-
-## 🚀 About Me
-Aspiring software engineer focused on writing clean, efficient C++ code.
-Strong foundation in algorithms and computer science fundamentals.  
-Actively learning modern C++ and building real projects to grow professionally.
-
----
+I focus on **C++** and strong **computer science fundamentals**.  
+Actively learning modern C++ and improving through hands-on projects.
 
 ## 🧠 Skills
-
-**Languages**
-- C++ (primary — currently improving daily)
-- Python (practical experience)
-
-**Core Concepts**
+- **C++** (main focus, learning modern C++)
+- Python (secondary)
 - Data structures & algorithms
-- Memory model (stack vs heap, object lifetime)
-- Shallow vs deep copy
-- Theory of memory safety issues (e.g., use-after-free)*
+- Memory model (stack vs heap, lifetime, copy semantics)
 
----
-
-## 💼 Projects / Highlights
-Pinned projects on my profile reflect the work I’m most proud of, including:
+## 🚀 Projects
 - C++ practice & experiments
 - Algorithms implementations
-- Independent game project
 
-<!-- Add your project repos here manually -->
-
----
-
-## 📈 Tools & Workflow
+## 🛠 Tools
 - Git / GitHub
 - VS Code
-- Windows 11
+- Clion
 
----
-
-## 📚 Currently Learning
-- Modern C++ best practices (RAII, smart pointers, templates)
-- Performance-aware development
-- Preparation for advanced systems & AI work
-
----
-
-## 📫 Contact
-- 🔗 LinkedIn: https://www.linkedin.com/in/oleksandr-honcharuk-2b17b739b/  
-- 📧 Email: oleksandrg881@gmail.com
+## 📚 Currently learning
+- RAII, smart pointers
+- Performance-aware C++
