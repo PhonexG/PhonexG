@@ -1,25 +1,26 @@
 # 👋 Oleksandr Honcharuk
 
-💻 **Junior Software Engineer | C++ | Algorithms**
+💻 **Junior Software Engineer | Java | Algorithms**
 
 I focus on **C++** and strong **computer science fundamentals**.  
-Actively learning modern C++ and improving through hands-on projects.
+Actively learning Java, Objeck oriented programing and improving through hands-on projects.
 
 ## 🧠 Skills
-- **C++** (main focus, learning modern C++)
+- **Java** (main focus)
 - Python (secondary)
-- Data structures & algorithms
-- Memory model (stack vs heap, lifetime, copy semantics)
+- SOLID & algorithms
+- Spring framework
 
 ## 🚀 Projects
-- C++ practice & experiments
+- Java practice & experiments
 - Algorithms implementations
 
 ## 🛠 Tools
 - Git / GitHub
 - VS Code
-- Clion
+- Intellij IDEA
+- Pycharm
 
 ## 📚 Currently learning
-- RAII, smart pointers
+- Algorithm
 - Performance-aware C++
