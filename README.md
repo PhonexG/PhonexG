@@ -2,7 +2,7 @@
 
 💻 **Software Engineering Student | C++ | Linux & DevOps Enthusiast**
 
-Computer Science student focused on systems programming, functional paradigms, and algorithm design. I build reliable software with **C++** and **Scala**, backed by solid CS fundamentals, Linux environment configuration, and automated workflows.
+Computer Science student focused on systems programming, functional paradigms, and algorithm design. I build reliable software with **C++**, backed by solid CS fundamentals, Linux environment configuration, and automated workflows.
 
 ---
 
