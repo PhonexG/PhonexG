@@ -1,41 +1,42 @@
-# 👋 Oleksandr Honcharuk
+# Oleksandr Honcharuk
 
-💻 **Software Engineering Student | C++ | Linux & DevOps Enthusiast**
+**Software Engineering Student | C++ | Linux | DevOps**
 
-Computer Science student focused on systems programming, functional paradigms, and algorithm design. I build reliable software with **C++**, backed by solid CS fundamentals, Linux environment configuration, and automated workflows.
+I'm a Computer Science student interested in systems programming, algorithms, and Linux. Most of my work is around **C++**, with some **Python**, and I enjoy figuring out how things work under the hood.
 
----
+I also spend a lot of time configuring Linux environments, working with containers, and automating development workflows.
 
-## 🧠 Core Competencies
+## What I Work With
 
-* **Languages:** C++ (numerical algorithms, systems focus), Python 
-* **Computer Science Foundations:** Numerical linear algebra, Information Theory, algorithms & data structures
-* **Systems & DevOps:** NixOS configuration & environment management, Docker containerization, systemd automation, Git
+- **C++** — algorithms, numerical methods, systems programming
+- **Python** — scripting and tooling
+- **Algorithms & Data Structures**
+- **Numerical Linear Algebra**
+- **Information Theory**
+- **Linux & NixOS**
+- **Docker, systemd, Git**
 
----
+## Projects
 
-## 🚀 Projects & Hands-on Work
+### Zero-Data Relational Data Generator
+A synthetic data generation project built with **Scala and Python**.
 
-* **Zero-Data Relational Data Generator**
-  * *Role:* DevOps & Integrator
-  * Synthetic data generation platform built with Scala and Python.
-  * Responsible for Docker containerization, component integration, and automated environment configuration.
+**My part:** Docker setup, integrating project components, and configuring the development environment.
 
-* **Numerical Methods & Algorithms (C++)**
-  * Practical implementations of numerical linear algebra algorithms.
+### Numerical Methods & Algorithms
+C++ implementations of numerical methods and linear algebra algorithms, mainly as part of my studies and experiments with different approaches.
 
----
+## My Setup
 
-## 🛠 Tools & Environment
+- **OS:** NixOS / Linux
+- **Terminal:** Kitty
+- **Editors:** Zed, Micro
+- **IDEs:** JetBrains
+- **Tools:** Git, GitHub, Docker, systemd
 
-* **Operating System:** NixOS, Linux
-* **CLI & Tooling:** Kitty, Micro, Git / GitHub, Docker, Systemd
-* **IDEs:** JetBrains IDEs, Zed
+## Currently Learning
 
----
-
-## 📚 Currently Exploring
-
-* Advanced functional programming patterns & evaluation models
-* High-performance computing & algorithmic optimization
-* System architecture, containerization, and reproducible infrastructure
+- Functional programming and different evaluation strategies
+- Performance optimization and high-performance computing
+- System architecture
+- Containers and reproducible development environments
