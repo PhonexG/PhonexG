@@ -28,10 +28,9 @@ C++ code editor with full-fledged IDE capabilities, running natively on NixOS an
 ## My Setup
 
 - **OS:** NixOS / Linux
-- **Terminal:** Kitty
 - **Editors:** Zed, Micro
 - **IDEs:** JetBrains
-- **Tools:** Git, GitHub, Docker, systemd
+- **Tools:** Git, GitHub, Docker
 
 ## Currently Learning
 
