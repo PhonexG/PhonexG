@@ -19,13 +19,12 @@ I also spend a lot of time configuring Linux environments, working with containe
 ## Projects
 
 ### Zero-Data Relational Data Generator
-A synthetic data generation project built with **Scala and Python**.
+A synthetic data generation project built with **Python**.
 
-**My part:** Docker setup, integrating project components, and configuring the development environment.
+**My part:** Docker setup, integrating project components, configuring the development environment and enhancing core.
 
-### Numerical Methods & Algorithms
-C++ implementations of numerical methods and linear algebra algorithms, mainly as part of my studies and experiments with different approaches.
-
+### Onix
+C++ code editor with full-fledged IDE capabilities, running natively on NixOS and Chimera Linux.
 ## My Setup
 
 - **OS:** NixOS / Linux
